@@ -6,3 +6,7 @@ Currently, I'm working at [TakingITGlobal](https://takingitglobal.org) as a Soft
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidli3100)
 
+Here's what I'm playing right now on Spotify - kind of eclectic lol.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12172317276&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
