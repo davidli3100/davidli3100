@@ -7,10 +7,10 @@ Currently, I'm working at [TakingITGlobal](https://takingitglobal.org) as a Soft
 <p align="center">
   <img alt="My Github Statistics" src="https://github-readme-stats.vercel.app/api?username=davidli3100">
 </p>
-
+<br/>
 <p align="center">
   Here's what I'm playing on Spotify right now - kind of eclectic lol.
- </p>
+</p>
 
 <p align="center">
   <img alt="What I'm currently playing on spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=12172317276&cover_image=true">
