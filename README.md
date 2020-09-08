@@ -4,9 +4,15 @@
 
 Currently, I'm working at [TakingITGlobal](https://takingitglobal.org) as a Software Architect - outside of work, you'll find me playing tennis down at the local courts, making more side projects, jamming to music, or organizing [FraserHacks](https://fraserhacks.ca).
 
-![David's github stats](https://github-readme-stats.vercel.app/api?username=davidli3100)
+<p align="center">
+  <img alt="My Github Statistics" src="https://github-readme-stats.vercel.app/api?username=davidli3100">
+</p>
 
-Here's what I'm playing on Spotify right now - kind of eclectic lol.
+<p align="center">
+  Here's what I'm playing on Spotify right now - kind of eclectic lol.
+ </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12172317276&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <img alt="What I'm currently playing on spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=12172317276&cover_image=true">
+</p>
 
