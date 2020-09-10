@@ -9,7 +9,7 @@ Currently, I'm working at [TakingITGlobal](https://takingitglobal.org) as a Soft
 </p>
 <br/>
 <p align="center">
-  Here's what I'm playing on Spotify right now - my taste kind of eclectic lol.
+  Here's what I'm playing on Spotify right now - my taste is kind of eclectic lol.
 </p>
 
 <p align="center">
